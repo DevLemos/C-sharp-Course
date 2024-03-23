@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\bin\Debug\net8.0\Estrutura-repetitiva-for.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\bin\Debug\net8.0\Estrutura-repetitiva-for.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\bin\Debug\net8.0\Estrutura-repetitiva-for.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\bin\Debug\net8.0\Estrutura-repetitiva-for.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\bin\Debug\net8.0\Estrutura-repetitiva-for.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\refint\Estrutura-repetitiva-for.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\Estrutura-repetitiva-for.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repetitiva-for\obj\Debug\net8.0\ref\Estrutura-repetitiva-for.dll

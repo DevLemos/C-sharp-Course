@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\bin\Debug\net8.0\EX07.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\bin\Debug\net8.0\EX07.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\bin\Debug\net8.0\EX07.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\bin\Debug\net8.0\EX07.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\bin\Debug\net8.0\EX07.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\refint\EX07.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\EX07.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX07\obj\Debug\net8.0\ref\EX07.dll

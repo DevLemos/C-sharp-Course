@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\bin\Debug\net8.0\EX11-LINQ-SQL.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\bin\Debug\net8.0\EX11-LINQ-SQL.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\bin\Debug\net8.0\EX11-LINQ-SQL.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\bin\Debug\net8.0\EX11-LINQ-SQL.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\bin\Debug\net8.0\EX11-LINQ-SQL.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\refint\EX11-LINQ-SQL.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\EX11-LINQ-SQL.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Expressoes-lambda-delegates-LINQ\EX11-LINQ-SQL\obj\Debug\net8.0\ref\EX11-LINQ-SQL.dll

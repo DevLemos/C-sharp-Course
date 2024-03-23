@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\bin\Debug\net8.0\EX01.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\bin\Debug\net8.0\EX01.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\bin\Debug\net8.0\EX01.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\bin\Debug\net8.0\EX01.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\bin\Debug\net8.0\EX01.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\refint\EX01.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\EX01.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Vetores\EX01\obj\Debug\net8.0\ref\EX01.dll

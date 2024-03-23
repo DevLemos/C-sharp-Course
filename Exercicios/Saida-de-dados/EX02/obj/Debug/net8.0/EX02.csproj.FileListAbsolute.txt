@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\bin\Debug\net8.0\EX02.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\bin\Debug\net8.0\EX02.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\bin\Debug\net8.0\EX02.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\bin\Debug\net8.0\EX02.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\bin\Debug\net8.0\EX02.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\refint\EX02.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\EX02.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Saida-de-dados\EX02\obj\Debug\net8.0\ref\EX02.dll

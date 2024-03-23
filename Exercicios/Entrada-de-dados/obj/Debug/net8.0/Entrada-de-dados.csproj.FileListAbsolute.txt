@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\bin\Debug\net8.0\Entrada-de-dados.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\bin\Debug\net8.0\Entrada-de-dados.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\bin\Debug\net8.0\Entrada-de-dados.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\bin\Debug\net8.0\Entrada-de-dados.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\bin\Debug\net8.0\Entrada-de-dados.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\refint\Entrada-de-dados.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\Entrada-de-dados.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Entrada-de-dados\obj\Debug\net8.0\ref\Entrada-de-dados.dll

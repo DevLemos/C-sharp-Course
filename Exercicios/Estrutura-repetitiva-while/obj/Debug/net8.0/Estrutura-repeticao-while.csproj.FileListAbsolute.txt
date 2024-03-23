@@ -1,0 +1,14 @@
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\bin\Debug\net8.0\Estrutura-repeticao-while.exe
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\bin\Debug\net8.0\Estrutura-repeticao-while.deps.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\bin\Debug\net8.0\Estrutura-repeticao-while.runtimeconfig.json
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\bin\Debug\net8.0\Estrutura-repeticao-while.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\bin\Debug\net8.0\Estrutura-repeticao-while.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.AssemblyInfoInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.AssemblyInfo.cs
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.csproj.CoreCompileInputs.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\refint\Estrutura-repeticao-while.dll
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.pdb
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\Estrutura-repeticao-while.genruntimeconfig.cache
+C:\Users\INTEL-PC\Desktop\Course\Exercicios\Estrutura-repeticao-while\obj\Debug\net8.0\ref\Estrutura-repeticao-while.dll
